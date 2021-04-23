@@ -9,3 +9,5 @@ npm install
 # run the app
 npm run dev
 ```
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/brick.ky)](https://github.com/kevinadhiguna)
